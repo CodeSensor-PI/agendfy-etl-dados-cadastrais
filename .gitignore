@@ -1,0 +1,33 @@
+# Ambiente virtual
+venv/
+.env/
+.venv/
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
